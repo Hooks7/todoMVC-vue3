@@ -147,6 +147,7 @@ export default {
       pluralize
     }
   },
+  
   directives: {
     editFocus: (el, { value }) => value && el.focus()
   }
