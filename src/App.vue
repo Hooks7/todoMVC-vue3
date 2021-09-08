@@ -152,5 +152,4 @@ export default {
   }
 }
 </script>
-
 <style src="todomvc-app-css/index.css"></style>
